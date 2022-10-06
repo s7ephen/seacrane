@@ -1,5 +1,5 @@
 # Seacrane
-![a](./wiki/images/seacrane_splash.png)
+![](https://github.com/s7ephen/seacrane/wiki/images/seacrane_splash.png)
 See the [WIKI](https://github.com/s7ephen/seacrane/wiki) for detailed information.
 or:
  
