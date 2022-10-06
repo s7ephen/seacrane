@@ -1,4 +1,5 @@
 # Seacrane
+A thing to help you do things.
 See the [WIKI](https://github.com/s7ephen/seacrane/wiki) for detailed information.
 
 or:
